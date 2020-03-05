@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class m_player : MonoBehaviour {
 
-	// Use this for initialization
+	// Use this for initializatio
 	void Start () {
 		
 	}
